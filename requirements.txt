@@ -1,0 +1,6 @@
+opencv-contrib-python
+numpy
+git+https://github.com/xinntao/BasicSR.git
+facexlib
+gfpgan
+realesrgan
